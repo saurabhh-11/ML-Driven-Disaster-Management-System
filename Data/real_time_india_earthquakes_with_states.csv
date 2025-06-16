@@ -1,0 +1,8 @@
+datetime,latitude,longitude,magnitude,location,state,predicted_risk
+2025-02-22 10:33:29 UTC,21.4823,93.708,5.2,"129 km S of Hakha, Myanmar",China,Medium
+2025-02-21 10:11:47 UTC,28.5633,87.5409,4.9,"98 km NE of Lobuche, Nepal",Tibet,Medium
+2025-02-20 22:21:46 UTC,34.5989,72.4423,4.4,"21 km SSE of Mingora, Pakistan",Khyber Pakhtunkhwa,Medium
+2025-02-20 06:02:59 UTC,25.8168,90.6971,4.2,"40 km S of Goālpāra, India",Assam,Medium
+2025-02-17 00:06:52 UTC,28.6427,77.1065,4.2,"5 km SE of Nāngloi Jāt, India",Delhi,Medium
+2025-02-16 03:28:58 UTC,28.9831,87.5245,4.8,"134 km NNE of Lobuche, Nepal",Tibet,Medium
+2025-02-15 17:48:19 UTC,33.4051,73.0929,4.7,"21 km S of Rawalpindi, Pakistan",Punjab,Medium
