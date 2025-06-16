@@ -4,7 +4,7 @@
 
 An AI-based system to predict earthquakes and send early warnings using machine learning.
 
-## 🔧 Key Features
+##  Key Features
 
 -  Uses LSTM model for accurate earthquake prediction
 -  Shows risk zones on a map
@@ -25,7 +25,7 @@ An AI-based system to predict earthquakes and send early warnings using machine 
 - Easy to use with location preferences
 
 
-## 🔮 Future Plans
+##  Future Plans
 
 - Predict other disasters (floods, tsunamis)
 - Add real-time sensor integration
